@@ -1,0 +1,5 @@
+mijvi is a planned preprocessor for Matlab code which will add various
+features to Matlab to make its notation quicker and easier to use.  Effectively
+the goal is to turn Matlab into a better language.
+
+It is currently still in early development.  Come back later!
